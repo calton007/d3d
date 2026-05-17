@@ -1,0 +1,42 @@
+# Build outputs
+/bin/
+/obj/
+/x64/
+/Debug/
+/Release/
+
+# Original D3D9 reference sources kept locally only
+/legacy/
+
+# Visual Studio workspace state
+/.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# MSBuild and linker intermediates
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.ipdb
+*.iobj
+*.lib
+*.exp
+*.tlog
+*.lastbuildstate
+*.log
+
+# Generated executables
+*.exe
+*.dll
+
+# Local editor/system files
+.DS_Store
+Thumbs.db
+

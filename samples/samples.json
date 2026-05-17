@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "arrowhead",
+    "Kind": "Arrowhead",
+    "Variant": 2,
+    "Guid": "{22222222-2222-2222-2222-000000000003}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "deduplicated main arrowhead mesh"
+  },
+  {
+    "Name": "chair_1",
+    "Kind": "Chair",
+    "Variant": 3,
+    "Guid": "{22222222-2222-2222-2222-000000000004}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "compact wood chair geometry"
+  },
+  {
+    "Name": "chair_2",
+    "Kind": "Chair",
+    "Variant": 4,
+    "Guid": "{22222222-2222-2222-2222-000000000005}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "cushioned chair geometry"
+  },
+  {
+    "Name": "chair_3",
+    "Kind": "Chair",
+    "Variant": 5,
+    "Guid": "{22222222-2222-2222-2222-000000000006}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "ladder-back chair geometry"
+  },
+  {
+    "Name": "chair",
+    "Kind": "Chair",
+    "Variant": 6,
+    "Guid": "{22222222-2222-2222-2222-000000000007}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "main composite chair geometry"
+  },
+  {
+    "Name": "cube_1",
+    "Kind": "Cube",
+    "Variant": 7,
+    "Guid": "{22222222-2222-2222-2222-000000000008}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "legacy colored rotating cube"
+  },
+  {
+    "Name": "cube_2",
+    "Kind": "Cube",
+    "Variant": 8,
+    "Guid": "{22222222-2222-2222-2222-000000000009}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "offset rectangular box volume"
+  },
+  {
+    "Name": "cube_3",
+    "Kind": "Cube",
+    "Variant": 9,
+    "Guid": "{22222222-2222-2222-2222-00000000000A}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "x/y rotation transform variant"
+  },
+  {
+    "Name": "cube_4",
+    "Kind": "Cube",
+    "Variant": 10,
+    "Guid": "{22222222-2222-2222-2222-00000000000B}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "non-uniform scaled cube variant"
+  },
+  {
+    "Name": "cube_5",
+    "Kind": "Cube",
+    "Variant": 11,
+    "Guid": "{22222222-2222-2222-2222-00000000000C}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "two-cube transform variant"
+  },
+  {
+    "Name": "cube",
+    "Kind": "Cube",
+    "Variant": 12,
+    "Guid": "{22222222-2222-2222-2222-00000000000D}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "main rotating cube"
+  },
+  {
+    "Name": "d3dxcreate",
+    "Kind": "Cube",
+    "Variant": 28,
+    "Guid": "{22222222-2222-2222-2222-000000000014}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "runtime-created mesh demonstration"
+  },
+  {
+    "Name": "octahedron",
+    "Kind": "Octahedron",
+    "Variant": 31,
+    "Guid": "{22222222-2222-2222-2222-000000000016}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "main octahedron mesh"
+  },
+  {
+    "Name": "stencilmirrorshadow",
+    "Kind": "MirrorShadow",
+    "Variant": 32,
+    "Guid": "{22222222-2222-2222-2222-000000000017}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "normal scene plus stencil mirror pass plus alpha shadow pass"
+  },
+  {
+    "Name": "tetrahedron_1",
+    "Kind": "Tetrahedron",
+    "Variant": 33,
+    "Guid": "{22222222-2222-2222-2222-000000000018}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "stretched tetrahedron variant"
+  },
+  {
+    "Name": "tetrahedron",
+    "Kind": "Tetrahedron",
+    "Variant": 35,
+    "Guid": "{22222222-2222-2222-2222-000000000019}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "main tetrahedron mesh"
+  },
+  {
+    "Name": "texCube_1",
+    "Kind": "TexturedCube",
+    "Variant": 36,
+    "Guid": "{22222222-2222-2222-2222-00000000001A}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "single textured cube with arrow-key texture switching"
+  },
+  {
+    "Name": "texCube_2",
+    "Kind": "TexturedCube",
+    "Variant": 37,
+    "Guid": "{22222222-2222-2222-2222-00000000001B}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "repeated UV textured box"
+  },
+  {
+    "Name": "texCube",
+    "Kind": "TexturedCube",
+    "Variant": 38,
+    "Guid": "{22222222-2222-2222-2222-00000000001C}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "variant",
+    "Notes": "two textured cubes with different UV density"
+  },
+  {
+    "Name": "triangle",
+    "Kind": "Triangle",
+    "Variant": 40,
+    "Guid": "{22222222-2222-2222-2222-00000000001D}",
+    "LegacyRole": "sample",
+    "MigrationStatus": "accurate",
+    "Notes": "colored triangle"
+  }
+]
